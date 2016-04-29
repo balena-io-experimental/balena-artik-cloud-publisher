@@ -1,0 +1,39 @@
+{
+  "name": "resin-artik-promixity-sensor",
+  "version": "0.0.2",
+  "description": "Resin.io application artik-5/10 to take promixity readings and push them to Sami if value exeeds threshold",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd src && node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resin-porjects/publishing-to-sami.git"
+  },
+  "keywords": [
+    "artik",
+    "5",
+    "samsung",
+    "resin",
+    "io",
+    "fwr",
+    "artik-5",
+    "led",
+    "matrix",
+    "sensor"
+  ],
+  "author": "Carlo Maria Curinga",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/resin-porjects/publishing-to-sami/issues"
+  },
+  "homepage": "https://github.com/resin-porjects/publishing-to-sami#readme",
+  "jshintConfig": {
+    "esnext": true,
+    "strict": true
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-sami": "^0.2.0"
+  }
+}
