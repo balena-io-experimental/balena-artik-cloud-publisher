@@ -48,4 +48,4 @@ git push resin master
 
 Check resin.io & Artik dashboard.
 
-![image](/artik-dash.gif)
+![image](docs/artik-dash.gif)
