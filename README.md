@@ -4,7 +4,7 @@ balena application to showcase an Artik-10 or 5 pushing Infrared Proximity Senso
 ## Getting Started
 
 * Ensure you have [git](https://git-scm.com/) installed on your computer.
-* [Get your Artik set up with balena](http://docs.balena.io/artik5/nodejs/gettingstarted/)
+* [Get your Artik set up with balena](http://balena.io/docs/learn/getting-started/artik530/nodejs/)
 
 ### Infrared Proximity Sensor
 
@@ -38,7 +38,7 @@ git clone https://github.com/balena-projects/balena-artik-cloud-publisher && cd 
 ```
 
 ```
-git remote add balena git@git.balena.io:myGithubName/balenaAppName.git
+git remote add balena git@git.balena-cloud.com:myGithubName/balenaAppName.git
 ```
 
 ```
