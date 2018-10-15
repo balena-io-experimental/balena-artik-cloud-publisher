@@ -15,8 +15,7 @@ Connect the sensor as shown below:
 ### ARTIK Cloud
   * You need a Samsung account and a device created in the [ARTIK Cloud](https://portal.samsungsami.io) dashboard
   * You need to create a new device type [here](https://devportal.samsungsami.io/#/devicetypes/new)
-    * __Manifest__ - Upload [device_manifest.json](https://github.com/balena-projects/balena-artik10-demo/blob/master/device_manifest.json) from this repository.
-    ![Manifest](/docs/mainfest.png)
+    * __Manifest__ - Upload [device_manifest.json](https://github.com/balena-playground/balena-artik10-demo/blob/master/device_manifest.json) from this repository. ![manifest](/docs/manifest.png)
   * You need to sign into the [user portal](https://portal.samsungsami.io/) and connect a device using the device type name you created earlier.
   * Select the gear icon on your new device and then generate a token.
   ![token](/docs/token.png)
