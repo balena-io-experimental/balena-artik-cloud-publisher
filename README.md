@@ -38,7 +38,7 @@ git clone https://github.com/balena-projects/balena-artik-cloud-publisher && cd 
 ```
 
 ```
-git remote add balena git@git.balena:myGithubName/balenaAppName.git
+git remote add balena git@git.balena.io:myGithubName/balenaAppName.git
 ```
 
 ```
